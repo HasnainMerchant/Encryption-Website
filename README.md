@@ -1,4 +1,4 @@
-# EDWA
+# Encryption-Website
 **Encryption Decryption Web Application** is a simple project to perform encryption and decryption.
 
 <h3>Implemented Algorithms:</h3>
